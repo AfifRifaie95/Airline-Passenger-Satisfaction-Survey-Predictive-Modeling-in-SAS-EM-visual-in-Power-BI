@@ -1,6 +1,7 @@
 # Airline Passenger Satisfaction Survey Predictive Modeling
 
-<img width="295" alt="image" src="https://github.com/AfifRifaie95/Airline-Passenger-Satisfaction-Survey-Predictive-Modeling-in-SAS-EM-visual-in-Power-BI/assets/159521904/00bba4c3-3cb5-4dbe-90d6-1ed39941210e">
+<img width="332" alt="image" src="https://github.com/AfifRifaie95/Airline-Passenger-Satisfaction-Survey-Predictive-Modeling-in-SAS-EM-visual-in-Power-BI/assets/159521904/af749eea-c575-4e9d-aa9d-fa1abea10b51">
+
 
 ## Project Overview
 
