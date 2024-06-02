@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This study aims to establish predictive algorithms using SAS Enterprise Miner. The dataset used in this report is an Airline Passenger Satisfaction Survey, which is available on Kaggle. It contains the survey parameter with a target variable of satisfaction (Satisfied / Neutral or Dissatisfied) with passenger demographic information and airline service dimensions, such as delay times. 
+This report aims to establish predictive algorithms using SAS Enterprise Miner. The dataset used in this report is an Airline Passenger Satisfaction Survey, which is available on Kaggle. It contains the survey parameter with a target variable of satisfaction (Satisfied / Neutral or Dissatisfied) with passenger demographic information and airline service dimensions, such as delay times. 
 
 The outcome of this study provides data-driven guidelines for the airline company to identify which service dimensions contribute to the dissatisfaction, hence, to improve their service quality.
 
